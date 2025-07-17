@@ -86,5 +86,18 @@ Additional calculated fields:
 
 ---
 
-## 📁 Repository Structure
+## 👤 Author
+
+**Anshul Sharma**  
+Student ID: 100999334  
+Course: Business Analysis and Assessments  
+Submission Date: April 16, 2025
+
+---
+
+## 🏁 Outcome
+
+The dashboard provides a solid foundation for performance tracking, real-time variance analysis, and data-driven decision-making for *The Coffee Cup*’s leadership. It offers strategic insights to optimize profitability across stores and improve budgeting accuracy.
+
+
 
